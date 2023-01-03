@@ -8,7 +8,7 @@
         bag += str[i];
     }
     
-    if(str == str){
+    if(str == bag){
       console.log("Yes");
      }else{
       console.log("No");
